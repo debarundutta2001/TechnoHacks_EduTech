@@ -6,6 +6,17 @@
                                                                                
                                                                                            ...............by TECHNOHACKS EDUTECH
 
+           IDE: VS CODE
+           
+      FRONT-END:
+      * HTML
+      * CSS
+      * JAVASCRIPT
+      
+           
+
+                                                                                           
+
 
 Task 2 : Personal Portfolio Page-----> Build a personal portfolio website to showcase your skills, experience, and projects. ..........//
 
